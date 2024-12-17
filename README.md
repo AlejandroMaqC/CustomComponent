@@ -1,2 +1,2 @@
 # CustomComponent
-# hola
+hola
