@@ -5,7 +5,7 @@ Herramientas y Librerías Utilizadas en el Desarrollo del Componente
      . Versión: JDK 17.
    . Descripción: Kit de desarrollo para Java que incluye el compilador javac y herramientas necesarias para la                 ejecución de programas Java.
 1.2. JavaFX SDK
-   . Versión: JavaFX 17 (o superior).
+   . Versión: JavaFX 17.
    . Descripción: Kit de desarrollo para construir aplicaciones gráficas en Java con soporte para FXML y componentes visuales como botones, círculos, etc.
   . Descarga: https://openjfx.io
 1.3. Scene Builder
